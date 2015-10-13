@@ -25,7 +25,7 @@ XML structure for unused files.
 
 PROJECT_DIR_STRING = "$PROJECT_DIR$"
 project_dir_replacement = "/Users/mukundvis/HealthifyMe/phoenix"
-source_filename = "/Users/mukundvis/HealthifyMe/phoenix/HealthifyMe/build/outputs/AndroidLintUnusedResources.xml"
+source_filename = "/Users/mukundvis/Desktop/AndroidLintUnusedResources.xml"
 
 TO_REPLACE = [
    (PROJECT_DIR_STRING, project_dir_replacement),
